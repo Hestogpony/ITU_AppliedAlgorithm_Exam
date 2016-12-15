@@ -1,5 +1,3 @@
-# User-specific stuff:
-.idea/*.xml
-
-# Project specific stuff:
-.iml
+# User-specific stuff and Project specific stuff:
+*.iml
+*.xml
