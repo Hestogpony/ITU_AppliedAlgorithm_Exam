@@ -1,0 +1,22 @@
+
+Input:
+	- Order: Ascending/descending numbers
+	- N: input size (Usually double this parameter for each test)
+	- Range: max input number and min input number
+	- Order: Random numbers, partially sorted, presorted
+
+Sorting by: Priority Queue vs Sorting of Vector
+	- Time used for sorting?
+	- Space used for sorting?	
+
+
+Other parameters:
+
+	- Environments:
+		- Computer Specs (CPU, Ram, disk space, OS)
+		- Programming language (C, Java, Python, C++?)
+		- Compiler (which one is used?)
+	
+	
+	- Input type:
+		- Int, double, String?!

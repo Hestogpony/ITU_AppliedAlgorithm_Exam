@@ -1,0 +1,40 @@
+
+Experiments description:
+
+	Hypothesis:
+		
+		Implementation X has running time c * n^3 for dimension of square
+		matrices n > 1000. 
+
+	Factors:
+
+		Algorithm(s): Matrix Multiplication
+
+		Instance: 
+			- Tiling
+			- Non-tiling
+			- Binary matrix
+		
+		Environment: 
+			- Available memory
+			- Type of CPU
+			- Compiler brand
+		
+		Fixed parameters: 
+			- Bit-size of the floats
+			- Dimension n of Matrix
+			- #Threads (if it is a tiling matrix instance)
+			- numbers: 0s, denormalized 
+						
+		Noise parameters: 		
+			- Additional CPU load
+	
+	Plot:
+	
+		
+	Conclusion:
+		
+	
+		
+
+	

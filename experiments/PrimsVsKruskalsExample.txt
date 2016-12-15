@@ -1,0 +1,27 @@
+Experiments description:
+
+	Hypothesis:
+		
+		For a Graphs (Grid graph) on n = 25.000 Vertices and for #edges, m < (1/50 * 4), 
+		Prim's is faster than Kruskal's. 
+
+	Factors:
+
+		Algorithm(s): Prim's vs Kruskal's
+
+		Instance: disconnected Graphs
+
+		Environment: Own computer (check specs)
+
+		Fixed parameters: #nodes, #edges, weights, #connected components
+						  fixed   vary    fixed    vary    
+						
+		Noise parameters: 		
+		
+	Conclusion:
+	
+		Kruskal's is initlially worse than Prim's. But as the number of edges and 
+		number of connected components increase Kruskal's becomes better and better 
+		compared to Prim's, and at some point overtake Prim's.
+
+	
